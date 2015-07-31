@@ -1,2 +1,2 @@
-# magellan-jul-16
-unit testing using jasmine and git practise
+#Practise
+unit testing practise using jasmine and karma
